@@ -44,14 +44,15 @@
 }
 .escola-titulo{
     padding: 55.px 0;
-    color:rgb(23, 111, 7);
+    background-image: linear-gradient(#29a938ef,#3aa510);
 
 }
 
 .estudante{
     padding: 24px 0;
-    color: #3aa510;
-    background-color: rgba(31, 220, 75, 0.806);
+    color: #fafafa;
+    color:rgb(23, 111, 7);
+
 }
 
 .estudante-imagem{
