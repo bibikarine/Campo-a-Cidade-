@@ -17,3 +17,7 @@
 # Captura de tela 2024-07-25 132624.png
 ## disponível no site:
 ### http://www.tuoeditemarques.seed.pr.gov.br/modules/conteudo/conteudo.php?conteudo=12
+
+# opera de arame.jpeg
+## disponível no site:
+### https://www.oaltouruguai.com.br/noticia/8552/conheca-um-dos-destinos-que-o-au-podera-levar-voce#!
