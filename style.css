@@ -50,8 +50,7 @@
 
 .estudante{
     padding: 24px 0;
-background-color: rgba(75, 200, 90, 0.772);
-background-color: rgba(39, 189, 54, 0.833);
+    color: #3aa510;
 }
 
 .estudante-imagem{
