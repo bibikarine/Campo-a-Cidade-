@@ -18,6 +18,6 @@
 ## disponível no site:
 ### http://www.tuoeditemarques.seed.pr.gov.br/modules/conteudo/conteudo.php?conteudo=12
 
-# opera de arame.jpeg
+# "Federal_University_of_Paraná_building,_Curitiba,_Brazil,_CAIO_Millennium_Biarticulado_bus_Volvo_B12M_Biarticulado_chassis.jpg" 
 ## disponível no site:
-### https://www.oaltouruguai.com.br/noticia/8552/conheca-um-dos-destinos-que-o-au-podera-levar-voce#!
+### https://pt.m.wikipedia.org/wiki/Turismo_no_Paran%C3%A1#/media/Ficheiro%3AFederal_University_of_Paran%C3%A1_building%2C_Curitiba%2C_Brazil%2C_CAIO_Millennium_Biarticulado_bus_Volvo_B12M_Biar
