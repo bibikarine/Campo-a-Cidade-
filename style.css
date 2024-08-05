@@ -27,6 +27,7 @@
 
 .escola-imagem{
     width: 35%;
+    color: #3aa510;
 }
 
 .escola{
@@ -40,7 +41,6 @@
 
 .escola-div-conteudo{
     width: 50%;
-    background-color: rgba(39, 189, 54, 0.833);
 }
 .escola-titulo{
     padding: 35.px 0;
