@@ -39,10 +39,12 @@
 }
 
 .escola-div-conteudo{
-    width: 45%;
+    width: 50%;
+    background-color: rgba(39, 189, 54, 0.833);
 }
 .escola-titulo{
     padding: 35.px 0;
+
 }
 
 .estudante{
